@@ -1,0 +1,69 @@
+
+
+/* Simple reset rule */
+
+* {
+
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	text-decoration: none;
+
+}
+
+/* Global rules */
+
+body {
+
+
+
+}
+
+/* --------------------------------------------------------------- */
+
+/* header starts */
+
+header {
+
+
+
+}
+	
+	/* Logo container */
+
+	.logo {
+
+
+
+	}
+
+	/* Navigation bar */
+
+	nav {
+
+
+
+	}
+
+/* header ends */
+
+/* main starts */
+
+main {
+
+
+
+}
+
+/* main ends */
+
+/* footer starts */
+
+footer {
+
+
+
+}
+
+/* footer ends */
